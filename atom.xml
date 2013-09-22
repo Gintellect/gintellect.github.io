@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://Gintellect.github.io/atom.xml" rel="self"/>
-  <link href="http://Gintellect.github.io/"/>
-  <updated>2013-09-21T23:06:26+00:00</updated>
-  <id>http://Gintellect.github.io/</id>
+  <title><![CDATA[Gintellect]]></title>
+  <link href="http://gintellect.github.io/atom.xml" rel="self"/>
+  <link href="http://gintellect.github.io/"/>
+  <updated>2013-09-22T04:16:05+00:00</updated>
+  <id>http://gintellect.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[David Bochenski]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

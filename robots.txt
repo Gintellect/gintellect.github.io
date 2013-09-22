@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Gintellect.github.io/sitemap.xml 
+Sitemap: http://gintellect.github.io/sitemap.xml 
